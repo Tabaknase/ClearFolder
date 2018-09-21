@@ -1,0 +1,10 @@
+c:\users\kenan\Documents\GitHub\ClearFolder\ClearFolder\bin\Debug\ClearFolder.exe.config
+c:\users\kenan\Documents\GitHub\ClearFolder\ClearFolder\bin\Debug\ClearFolder.exe
+c:\users\kenan\Documents\GitHub\ClearFolder\ClearFolder\bin\Debug\ClearFolder.pdb
+c:\users\kenan\Documents\GitHub\ClearFolder\ClearFolder\obj\Debug\ClearFolder.csprojAssemblyReference.cache
+c:\users\kenan\Documents\GitHub\ClearFolder\ClearFolder\obj\Debug\ClearFolder.Form1.resources
+c:\users\kenan\Documents\GitHub\ClearFolder\ClearFolder\obj\Debug\ClearFolder.Properties.Resources.resources
+c:\users\kenan\Documents\GitHub\ClearFolder\ClearFolder\obj\Debug\ClearFolder.csproj.GenerateResource.cache
+c:\users\kenan\Documents\GitHub\ClearFolder\ClearFolder\obj\Debug\ClearFolder.csproj.CoreCompileInputs.cache
+c:\users\kenan\Documents\GitHub\ClearFolder\ClearFolder\obj\Debug\ClearFolder.exe
+c:\users\kenan\Documents\GitHub\ClearFolder\ClearFolder\obj\Debug\ClearFolder.pdb
